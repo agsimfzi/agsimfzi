@@ -57,6 +57,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
+<h2> 🚀 &nbsp;Stats</h2>
+
 [![Agus Imam Fauzi GitHub stats](https://github-readme-stats.vercel.app/api?username=agus7fauzi&count_private=true&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Agus Imam Fauzi GitHub stats](https://github-readme-stats.vercel.app/api?username=agus7fauzi&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
