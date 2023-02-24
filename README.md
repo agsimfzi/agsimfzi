@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<h2> 🚀 &nbsp;The Tools I Have Used</h2>
+<h2> 🚀 &nbsp;The tools I have used</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
