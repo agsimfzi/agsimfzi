@@ -12,7 +12,10 @@
 </p>
 
 [![Agus Imam Fauzi GitHub stats](https://github-readme-stats.vercel.app/api?username=agus7fauzi&count_private=true&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Agus Imam Fauzi GitHub stats](https://github-readme-stats.vercel.app/api?username=agus7fauzi&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agus7fauzi&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agus7fauzi&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@agus7fauzi&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@agus7fauzi&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
