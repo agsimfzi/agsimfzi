@@ -5,21 +5,18 @@
 </h1>
 
 <p align="center">
-  <!-- <a href="https://agus7fauzi.github.io">
+  <a href="https://agsimfzi.tech">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
   </a>
   <a href="https://www.linkedin.com/in/agus7fauzi">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-  </a> -->
+  </a>
 <!--   <a href="https://agus7fauzi.medium.com">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
   </a>
   <a href="https://dev.to/agus7fauzi">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
   </a> -->
-  <a href="https://projects.co.id/public/browse_users/view/7c9d1a/agus-imam-fauzi">
-    <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRraa-Hyxhd2oJiIKLJRedcmpdptcIN2Sia2g&s"/>
-  </a>
   <a href="https://gitlab.com/agsimfzi">
     <img height="50" src="https://images.ctfassets.net/xz1dnu24egyd/1IRkfXmxo8VP2RAE5jiS1Q/ea2086675d87911b0ce2d34c354b3711/gitlab-logo-500.png"/>
   </a>
