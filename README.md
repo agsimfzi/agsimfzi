@@ -71,4 +71,4 @@
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agsimfzi&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agsimfzi&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
-[![Agus Imam Fauzi WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agsimfzi)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Agus Imam Fauzi WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agsimfzi)](https://github.com/anuraghazra/github-readme-stats) -->
